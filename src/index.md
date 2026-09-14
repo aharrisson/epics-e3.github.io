@@ -102,4 +102,5 @@ reference/require
 
 maintainer/build-process
 maintainer/module-load
+maintainer/custom-channel
 :::
