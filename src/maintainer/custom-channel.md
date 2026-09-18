@@ -1,6 +1,6 @@
 # Custom conda channels
 
-For facilities that want to distribute internally developed E3 modules alongside a shared or central channel, such as ESS' `ess-conda-local`, this can be achieved by running a custom conda repository solution.
+For facilities that want to distribute internally developed E3 modules alongside a shared or central channel this can be achieved by running a custom conda repository solution.
 
 ## ESS shared channel
 
@@ -32,7 +32,7 @@ A private channel allows you to:
 - Treat them as production-quality packages
 - Avoid pushing facility-specific content into shared channels
 
-This is especially relevant when consuming shared channels such as `ess-conda-local`, while still needing local extensions.
+This is especially relevant when consuming shared channels such as `conda-forge`, while still needing local extensions.
 
 Private channels help maintain clear boundaries:
 
